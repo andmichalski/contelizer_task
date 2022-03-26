@@ -11,7 +11,7 @@ To run this programs You only need to Python3. Scripts are using only Python Sta
 
 ### Execution
 
-Execution could be provided on command line in Linux or MacOSFirst user need to go to main directory of repository.
+Execution could be provided on command line in Linux or MacOS. First user need to go to main directory of repository.
 
 * shuffle_words.py
 
