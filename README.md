@@ -1,10 +1,6 @@
-# Project Title
+# Contelizer task
 
-Contelizer task
-
-## Author
-
-Andrzej Michalski
+## Andrzej Michalski
 
 ## Description
 
